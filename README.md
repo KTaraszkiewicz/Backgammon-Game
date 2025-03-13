@@ -1,5 +1,5 @@
 ## Backgammon-Game
-#Single file Backgammon Game, with simple GUI in terminal, early stage of studies project
+# Single file Backgammon Game, with simple GUI in terminal, early stage of studies project
 Manual of the game:
 1. The goal of the game is to place all of your checkers in your home board and then bear them off (remove them from the board).
 2. The player who bears off all of their checkers from the board first wins.
