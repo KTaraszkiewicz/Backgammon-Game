@@ -1,0 +1,49 @@
+1. Celem gry jest umieszczenie wszystkich swoich pionków w swoim domu a następnie zdjęcie ich z planszy (na dwór).
+2. Zwycięża zawodnik, który jako pierwszy pozbędzie się wszystkich swoich pionków z planszy.
+3. Gra rozpoczyna się od odpowiedniego ułożenia pionków na planszy.
+4. Czerwony (*) porusza pionki zgodnie ze wskazówkami zegara, biały (&) porusza pionki przeciwnie do wskazówek zegara.
+5. Na początku zawodnicy rzucają jedną kostką a ten, który wyrzuci wyższą liczbę oczek, zaczyna rozgrywkę.
+6. Następnie rzuca on dwiema kostkami i przesuwa swoje pionki o odpowiednią ilość pól.
+7. Każda z dwóch kostek pozwala na ruch jednego z pionków (przesuwamy pionek o liczbę pól równą liczbie oczek z kostki).
+8. Można przesunąć jeden pionek o sumę oczek z dwóch kostek, o ile przynajmniej jedno z pól pośrednich (z jednej kostki)
+będzie wolne.
+9. Gracz może przestawić pionek tylko na pole, które jest puste lub stoją na nim wyłącznie jego pionki lub stoi na nim tylko
+jeden pionek przeciwnika (przy okazji dochodzi do zbicia).
+10. Nie można postawić pionka na pole, na którym znajduje się więcej niż jeden pionek przeciwnika.
+11. Jeżeli gracz nie ma możliwości ruchu odpowiadającego jednej z kostek, to go nie wykonuje.
+12. Jeżeli gracz nie może wykonać żadnego ruchu, traci swoją kolejkę.
+13. Wyrzucenie tej samej wartości na obu kostkach nazywane jest dubletem.
+14. W momencie wyrzucenia na obu kostkach tej samej ilości oczek (ozn. a) gracz ma możliwość wykonania czterech ruchów
+o wartości a.
+Przykładowo: jeżeli wyrzucimy na każdej kostce po dwa oczka, to możemy: przesunąć jeden pionek o osiem pól, albo dwa
+pionki o cztery pola, albo dwa pionki o dwa pola i jeden o cztery pola, albo cztery pionki, każdy o dwa pola.
+15. Do bicia pionków dochodzi wtedy, gdy pionek gracza zostaje przesunięty na pole, gdzie znajduje się jeden pionek
+przeciwnika.
+16. Zbity pionek przeciwnika zostaje przesunięty na bandę.
+17. Gracz, którego pionek znalazł się na bandzie, nie może wykonać ruchu pionkami znajdującymi się na planszy (pola
+1-24), aż do momentu, gdy nie zdejmie wszystkich pionków zbandy.
+18. Pionki z bandy wyprowadza się do domu przeciwnika.
+19. Stawia się je na wolnym polu lub na polu, na którym znajduje się jeden pionek przeciwnika.
+20. Po rzucie dwiema kostkami, wybiera się jedną z kostek, na której liczba oczek równa jest odległości pola od dworu.
+21. W przypadku, gdy przeciwnik posiada przynajmniej dwia pionki na każdym polu w swym domu nie ma możliwości na
+wprowadzenie pionków z bandy, więc gracz traci swoją kolejkę.
+22. Podobnie jest, gdy oba pola, które wskazują oczka z kostek są w posiadaniu przeciwnika (tzn. posiada przynajmniej dwa
+pionki na każdym z tych pól).
+23. Zdejmowanie pionków z planszy jest możliwe w momencie posiadania wszystkich niezdjętych pionków w domu.
+24. Jeżeli gracz ma jeden pionek poza domem, a pozostałe w domu, to jeżeli ruch jedną kostką wystarczy do wprowadzenia
+tego pionka do domu, wtedy druga kostka może wyprowadzać jeden z pionków z domu na dwór.
+25. Pionki można wyprowadzać z domu, jeżeli znajdują się na polach oddalonych od dworu o ilość wyrzuconych oczek.
+26. Jeżeli liczba oczek na kostce jest większa niż odległość najdalszego pionka z domu na dwór, to gracz zdejmuje
+najdalszy swój pionek.
+27. Raz zdjęty z planszy pionek nie wraca już na planszę.
+28. Gracze mogą rozgrywać nie tylko jeden pojedynek, ale całe mecze (serie gier).
+29. Za każde zwycięstwo zdobywa się jeden punkt.
+30. Jeżeli gracz wprowadzi wszystkie swoje pionki na dwór zanim przeciwnik zdoła wprowadzić choćby jeden swój pionek na
+dwór, wtedy gracz dostaje dodatkowy punkt.
+31. Jeżeli jednak przeciwnik będzie miał choć jeden pionek na bandzie, to zwycięzca otrzymuje trzy punkty za wygraną.
+32. W podstawowym wariancie (nie rozważanym w ramach projektu) zawodnicy grają przy wykorzystaniu tzw. kostki
+dublującej. Użycie takiej kostki oznacza przemnożenie ilości punktów zdobywanych za zwycięstwo przez wartość
+wskazywaną na kostce (2, 4, . . . , 64).
+
+
+
